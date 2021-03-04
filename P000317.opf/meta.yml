@@ -1,15 +1,16 @@
-id: opecha:P000317
+id: P000317
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W923
   title: དྲང་ངེས་ལེགས་བཤད་སྙིང་པོའི་བརྒལ་ལན།
-  volume:
+  author: ''
+  volumes:
     b15d3b305d39457b8728c2492c383a42:
       image_group_id: I1KG8924
       title: Volume 1 of drang nges legs bshad snying po'i brgal lan
       volume_number: 1
       total_pages: 118
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དྲང་ངེས་ལེགས་བཤད་སྙིང་པོའི་བརྒལ་ལན།
   author: ''
